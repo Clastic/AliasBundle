@@ -10,7 +10,6 @@
 namespace Clastic\AliasBundle\Tests\Unit\Form\Type;
 
 use Clastic\AliasBundle\Form\Type\AliasType;
-use Symfony\Component\Form\FormBuilder;
 use Symfony\Component\Form\Test\TypeTestCase;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\RequestStack;
