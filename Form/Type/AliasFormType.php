@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Clastic\AliasBundle\Form;
+namespace Clastic\AliasBundle\Form\Type;
 
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
@@ -16,7 +16,7 @@ use Symfony\Component\OptionsResolver\OptionsResolverInterface;
 /**
  * @author Dries De Peuter <dries@nousefreak.be>
  */
-class AliasType extends AbstractType
+class AliasFormType extends AbstractType
 {
     /**
      * @param FormBuilderInterface $builder
